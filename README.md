@@ -28,6 +28,7 @@ python -m venv .venv
 pip install -r requirements.txt
 python -m src.smart_rems.run_pipeline
 ```
+Running the pipeline automatically creates `data/` and `results/` folders containing synthetic hourly energy data, forecasting metrics, and dispatch previews.
 
 ## Resume line
 
