@@ -29,6 +29,6 @@ pip install -r requirements.txt
 python -m src.smart_rems.run_pipeline
 ```
 
-## Final line
+## Resume line
 
 Built a smart residential energy management system in Python using solar forecasting, reinforcement-learning-based battery scheduling, and priority-based load dispatch.
